@@ -4,4 +4,4 @@ Buenas tardes profe, hacemos entrega del segundo laboratorio que es en base a la
 
 en el archivo "AlgoritmoConvolucionDiscreta.mlx" por favor agrandar las graficas, sacandolas para poder ver de mejor manera 
 
-puede descargar uno a uno los archivos o usar el .rar que ya los contiene todos.
+puede descargar uno a uno los archivos hacer clicl en ellos y luego en "view raw" para que se descarguen o usar el .rar que ya los contiene todos.
